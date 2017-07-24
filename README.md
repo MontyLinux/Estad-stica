@@ -1,3 +1,3 @@
-# Estad-stica
-Curso de Estadística para Preparartoria 
-Empezaré pronto.
+# Estadística
+Curso de Estadística con R para Preparartoria 
+Empezaré pronto este curso...
